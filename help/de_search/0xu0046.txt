@@ -1,0 +1,4 @@
+FILE; 4,3;
+FILE/OPEN; 3;
+FILE/SAVE; 4;
+FIND; 4;

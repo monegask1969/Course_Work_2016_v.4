@@ -1,0 +1,21 @@
+1
+ CourseWork_2016
+ coursework_2016.htm
+2
+ Работа с программой
+ rabota_s_programmoj.htm
+3
+ Заполнение данных
+ zapolnenie_dannykh.htm
+4
+ Работа и сохранение
+ rabota_i_sokhranenie.htm
+5
+ Системные требования
+ sistemnye_trebovaniya.htm
+6
+ About
+ about.htm
+7
+ Разработчик
+ razrabotchik.htm
